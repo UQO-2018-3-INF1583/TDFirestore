@@ -11,6 +11,9 @@ For more information about Firestore visit [the docs][firestore-docs].
 
 Please follow the [Cloud Firestore Web Codelab](https://codelabs.developers.google.com/codelabs/firestore-web) to setup this project.
 
+## To run the Local Server
+use <code>firebase serve</code>
+
 ## Support
 
 - [Firebase Support](https://firebase.google.com/support/)
